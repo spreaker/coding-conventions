@@ -1,4 +1,4 @@
 # Spreaker Coding Conventions
 
-- [Javascript](js/README.md)
-- [Markdown](markdown/README.md)
+- [Javascript](js/javascript.md)
+- [Markdown](markdown/markdown.md)
