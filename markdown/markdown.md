@@ -1,5 +1,5 @@
 # Markdown Coding Conventions
 
-### File names
+### Filename
 
-- `README.md`
+Markdown filenames should be uppercase, with extension lowercase (ie. `README.md`).
