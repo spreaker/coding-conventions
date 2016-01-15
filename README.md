@@ -1,6 +1,6 @@
 # Spreaker Coding Conventions
 
-- [Javascript](js/javascript.md)
-- [Markdown](markdown/markdown.md)
-- [Android](android/README.md)
-- [Java/Eclipse](java/README.md)
+- [Javascript](doc/JAVASCRIPT.md)
+- [Markdown](doc/MARKDOWN.md)
+- [Android](doc/ANDROID.md)
+- [Java/Eclipse](doc/JAVA.md)
