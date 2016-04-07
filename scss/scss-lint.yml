@@ -1,0 +1,19 @@
+linters:
+    Indentation:
+        width: 4
+    BorderZero:
+        enabled: false
+    NameFormat:
+        convention: snake_case
+    SelectorFormat:
+        convention: snake_case
+    HexLength:
+        enabled: false
+    StringQuotes:
+        style: double_quotes
+    PropertySortOrder:
+        enabled: false
+    NestingDepth:
+        ignore_parent_selectors: true
+    Shorthand:
+        allowed_shorthands: [1, 2]
