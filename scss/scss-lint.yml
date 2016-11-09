@@ -16,4 +16,4 @@ linters:
     NestingDepth:
         ignore_parent_selectors: true
     Shorthand:
-        allowed_shorthands: [1, 2]
+        allowed_shorthands: [1, 2, 4]
